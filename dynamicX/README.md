@@ -171,11 +171,4 @@ app.use(
 - Enhance logging for better error tracking.
 
 ---
-
-## License
-
-This project is open-source under the MIT License. Feel free to use and modify it for your own purposes.
-
----
-
-Happy coding! 🚀
+ 
